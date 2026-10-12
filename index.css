@@ -37,8 +37,14 @@ body{
   margin: 0px;
 }
 
-#card button {
+#card button: {
   margin-bottom: 20px;
   width: 70%;
   padding: 10px;
+  border-radious: 20px;
+}
+#card button:hover{
+  color: red;
+  text-decoration: underline;
+  cursor:pointer;
 }
