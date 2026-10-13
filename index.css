@@ -44,7 +44,7 @@ body{
   border-radious: 20px;
 }
 #card button:hover{
-  color: red;
+  color: pink;
   text-decoration: underline;
   cursor:pointer;
 }
